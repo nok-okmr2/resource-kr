@@ -1,0 +1,11 @@
+Instance Information
+
+#1
+Instance ID : i-043000550669
+Name : fortigate-nwcommon
+PrivateIP : 10.251.32.188
+
+User : admin
+Password : Instance ID
+*Secret key authentication is not provided by Fortigate official AMI
+
